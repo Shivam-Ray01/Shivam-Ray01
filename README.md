@@ -3,7 +3,7 @@
 <h3> About Me </h3>
 <h4>I am a Backend developer, currently exploring Java & AI integration </h4>
 
--  Backend-focused developer, building full-stack apps with real auth, real databases, and real deployments
+-  Building full-stack apps with real auth, real databases, and real deployments
 -  Learning DSA and expanding into Java and AI integration
 -  I prefer understanding logic behind the code
 -  Open to internships / entry-level backend roles
